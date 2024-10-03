@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Você decide continuar investigando e reunir mais evidências antes de fazer um anúncio público.",
-                afirmacao: ". "
+                afirmacao: "Você está ajudando o planeta. "
             },
             {
                 texto: "Você decide alertar a comunidade imediatamente, acreditando que é melhor prevenir do que remediar.",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Você pode correr riscos de espalhar 'fake news', mas também pode alertar a população"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você decide focar em sua pesquisa e deixar que as autoridades lidem com a situação.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: "Conseguiu aprender mais sobre o tema."
             },
             {
                 texto: "Você decide liderar um grupo de trabalho para desenvolver um plano de ação contra a seca.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                afirmacao: "Seus níveis em 'amizade' aumentaram em 20%."
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Se você escolheu focar na pesquisa, você descobre uma tecnologia inovadora que pode ajudar a mitigar os efeitos da seca, mas precisa convencer as autoridades a adotá-la quando tenta as autoridades não levam você a sério, te deixando frustrada. Se você escolheu liderar o grupo de trabalho, vocês começam a implementar medidas como a construção de reservatórios de água e campanhas de conscientização sobre o uso sustentável dos recursos.",
         alternativas: [
             {
-                texto: ")Você decide usar a tecnologia em segredo para bem próprio, sua empatia tende a se transformar em egoismo",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Você decide usar a tecnologia em segredo para bem próprio, sua empatia tende a se transformar em egoismo",
+                afirmacao: " Você começou a trabalhar em um projeto pessoal, ajudando unicamente sua própia família "
             },
             {
                 texto: "Você decide apresentar a tecnologia inovadora em uma conferência para ganhar apoio",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                afirmacao: "Você ganha apoiadores, que irão ser úteis em sua jornada."
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você decide formar parcerias com ONGs e empresas para implementar a tecnologia.",
-                afirmacao: "."
+                afirmacao: "Seu projeto cresceu mais rápido."
             },
             {
                 texto: "Você decide buscar financlamento através de crowdfunding e doações individuais.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "Seu projeto cresce, com uma velocidade um pouco menor
             }
         ]
     },
@@ -61,12 +61,11 @@ const perguntas = [
         enunciado: "Independente das escolhas, Edith aprende muito sobre a importância da ação coletiva e da inovação na luta contra as mudanças climáticas. Ela percebe que suas escolhas não apenas afetam sua carreira, mas também o futuro de sua comunidade e do planeta. ",
         alternativas: [
             {
-                texto: "Edith decide continuar trabalhando em solucões climáticas se torna uma lider na area de sustentabilidade, e consegue assim fazer que mais pessoas se juntem a causa.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Edith decide continuar trabalhando em solucões climáticas se torna uma lider na area de sustentabilidade, e consegue assim fazer que mais pessoas ."
             },
             {
                 texto: "Edith decide abandonar o projeto, pois não acredita que conseguirá transformar a saúde do planeta.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                afirmacao: "Mesmo com sua decisão, ela influencia outras pessoas a entrarem na ong onde trabalha com a luta contra as mudançasclimáticas. "
             }
         ]
     },
