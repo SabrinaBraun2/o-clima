@@ -53,19 +53,20 @@ const perguntas = [
             },
             {
                 texto: "Você decide buscar financlamento através de crowdfunding e doações individuais.",
-                afirmacao: "Seu projeto cresce, com uma velocidade um pouco menor
+                afirmacao: "Seu projeto cresce, com uma velocidade um pouco menor"
             }
         ]
     },
     {
-        enunciado: "Independente das escolhas, Edith aprende muito sobre a importância da ação coletiva e da inovação na luta contra as mudanças climáticas. Ela percebe que suas escolhas não apenas afetam sua carreira, mas também o futuro de sua comunidade e do planeta. ",
+        enunciado: " ",
         alternativas: [
             {
-                texto: "Edith decide continuar trabalhando em solucões climáticas se torna uma lider na area de sustentabilidade, e consegue assim fazer que mais pessoas ."
+                texto: "Edith decide continuar trabalhando em solucões climáticas se torna uma lider na area de sustentabilidade, e consegue assim fazer que mais pessoas se juntem a causa.",
+                afirmacao: "Você se torna um líder na comunidade, alem de ser um exemplo para a geração mais nova."
             },
             {
-                texto: "Edith decide abandonar o projeto, pois não acredita que conseguirá transformar a saúde do planeta.",
-                afirmacao: "Mesmo com sua decisão, ela influencia outras pessoas a entrarem na ong onde trabalha com a luta contra as mudançasclimáticas. "
+                texto: " Edith decide abandonar o projeto, pois não acredita que conseguirá transformar a saúde do planeta.",
+                afirmacao: "Mesmo com isso, você se torna um exemplo para a geração mais nova, e novas ongs e grupos se formam."
             }
         ]
     },
